@@ -1,5 +1,4 @@
 # Treehouse_Project_5
-Portfolio Project
 The task of the project was to build a website
 with flask and store all past projects in a
 database using flask_slqalchemy. The user can
